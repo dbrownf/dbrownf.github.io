@@ -21,7 +21,7 @@ repository               : "dbrownf/dbrownf.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "2022-12-20_David_Brown_97.jpg"
   name             : "David Brown"
   pronouns         : # example: "he/him"  
   bio              : "Geospatial Data Scientist working in Agriculture and Environmental Science"
