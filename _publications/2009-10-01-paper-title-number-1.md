@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Data synthesis for crop variety evaluation. A review"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
