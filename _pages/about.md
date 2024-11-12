@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: David Brown, PhD
+title: About me
 excerpt: ""
 author_profile: true
 redirect_from: 
