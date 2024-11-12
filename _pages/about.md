@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
- 
+David Brown, PhD
 ======  
 I am a Post-Doctoral Associate at the EQUAL Lab within the School of Integrative Plant Sciences, Plant Breeding and Genetics Section, College of Agriculture and Life Sciences at Cornell University. I work on the development and application of data synthesis approaches to produce location-specific information to support decision making in crop variety management. In my work, I collaborate with a multidisciplinary group of scientists in the NextGen Cassava project in Nigeria, Tanzania, Uganda, and with the Feed the Future Innovation Lab for Crop Improvement in Costa Rica. 
 
