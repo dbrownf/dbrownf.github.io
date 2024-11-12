@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "David Brown's Academic Website"
+title: "David Brown"
 excerpt: ""
 author_profile: true
 redirect_from: 
