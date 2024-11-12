@@ -9,20 +9,15 @@ redirect_from:
 ---
 About me
 ======
-I am Postdoctoral Associate at Cornell University.
+I am a Post-Doctoral Associate at the EQUAL Lab within the School of Integrative Plant Sciences, Plant Breeding and Genetics Section, College of Agriculture and Life Sciences at Cornell University. I work on the development and application of data synthesis approaches to produce location-specific information to support decision making in crop variety management. In my work, I collaborate with a multidisciplinary group of scientists in the NextGen Cassava project in Nigeria, Tanzania, Uganda, and with the Feed the Future Innovation Lab for Crop Improvement in Costa Rica. 
 
 Research Interests
 ======
-Under construction...
+My main research interest is on how geographical factors affect crop variety performance from the perspective of farmers as end users. In that sense, I am also interested in understanding how farmers take decisions about what, when and where to plant, considering their geographical and socioeconomic context, in order to develop methods and tools that provide them tailored information to support farm decision making. 
 
 Publications
 ------
-Under construction... 
+My publications can be found in [Google Scholar](https://scholar.google.com/citations?user=GWrO8vcAAAAJ&hl=en) 
 
 
 
-Acknowledgement
-------
-This website is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
